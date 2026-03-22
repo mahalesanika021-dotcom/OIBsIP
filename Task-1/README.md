@@ -1,7 +1,7 @@
 # Task 1: Voice Assistant
 
 ## Description
-Is task mein maine ek basic voice assistant banaya hai jo user ke voice commands ko recognize karta hai aur uske according response deta hai. Ye assistant simple tasks perform kar sakta hai jaise greeting dena, time batana, date batana, aur web search karna.
+In this task, I have created a basic voice assistant that recognizes user voice commands and responds accordingly. This assistant can perform simple tasks such as greeting, telling the time, telling the date, and performing web searches.
 
 ## Features
 - Voice command recognition using Web Speech API
