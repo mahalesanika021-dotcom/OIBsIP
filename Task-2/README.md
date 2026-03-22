@@ -1,16 +1,22 @@
 # Task 2: BMI Calculator
 
 ## Description
-Is task mein maine ek BMI (Body Mass Index) calculator banaya hai jo user ke weight aur height ke according BMI calculate karta hai aur health category batata hai.
+In this task, I have created a BMI (Body Mass Index) calculator that calculates BMI based on user's weight and height, and displays the health category.
 
 ## Features
-- Weight (kg) aur height (m) input lena
-- BMI calculate karna: weight / (height)²
-- BMI category batana
+- Weight (kg) and height (m) input
+- BMI calculation: weight / (height)²
+- BMI category classification:
+  - Underweight: < 18.5
+  - Normal weight: 18.5 - 24.9
+  - Overweight: 25 - 29.9
+  - Obese: ≥ 30
 - Input validation
+- Health tips based on category
 
 ## Technologies Used
 - Python 3
 
-## Files
-- `bmi_calculator.py` - Main Python script
+## How to Run
+1. Python must be installed
+2. Run in terminal/command prompt:
